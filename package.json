@@ -10,9 +10,8 @@
     "uuid": "^11.0.3"
   },
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "npx puppeteer install"
-    "build": "npm install && npx puppeteer install",
+    "postinstall": "npx puppeteer install",
+    "build": "npm install && npx puppeteer install"
     "start": "node bot.js"
   }
 }
