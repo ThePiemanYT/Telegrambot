@@ -1,0 +1,31 @@
+[2024-12-30T06:20:50.718Z] DETAIL: Preserved cookies file for future sessions.
+[2024-12-30T06:20:50.720Z] DETAIL: Cleanup completed. Deleted files: None
+[2024-12-30T06:20:55.128Z] DETAIL: Loaded pre-authenticated cookies.
+[2024-12-30T06:20:55.128Z] DETAIL: Navigating to Aternos server page...
+[2024-12-30T06:20:58.094Z] DETAIL: No CAPTCHA or Cloudflare detected. Proceeding to server menu.
+[2024-12-30T06:20:58.114Z] DETAIL: Skipping Play button. User is already logged in.
+[2024-12-30T06:21:13.121Z] DETAIL: Error occurred: Waiting for selector `.server-body` failed: Waiting failed: 15000ms exceeded
+[2024-12-30T06:35:30.829Z] DETAIL: Unhandled Rejection: ReferenceError: startServer is not defined
+[2024-12-30T06:38:10.812Z] DETAIL: Loaded pre-authenticated cookies.
+[2024-12-30T06:38:21.090Z] DETAIL: Navigated to Aternos server page.
+[2024-12-30T06:44:38.069Z] DETAIL: Loaded pre-authenticated cookies.
+[2024-12-30T06:44:47.480Z] DETAIL: Skipping Play button. User is already logged in.
+[2024-12-30T06:44:47.492Z] DETAIL: Server menu loaded. Clicking server menu...
+[2024-12-30T06:44:47.535Z] DETAIL: Navigated to Aternos server page.
+[2024-12-30T06:44:49.471Z] DETAIL: Clicked the start button.
+[2024-12-30T06:45:39.480Z] DETAIL: Server start process completed.
+[2024-12-30T06:45:39.484Z] DETAIL: Cookies saved for the next session.
+[2024-12-30T07:28:13.033Z] DETAIL: Loaded pre-authenticated cookies.
+[2024-12-30T07:28:29.264Z] DETAIL: Skipping Play button. User is already logged in.
+[2024-12-30T07:28:29.274Z] DETAIL: Server menu loaded. Clicking server menu...
+[2024-12-30T07:28:29.315Z] DETAIL: Navigated to Aternos server page.
+[2024-12-30T07:28:31.005Z] DETAIL: Clicked the start button.
+[2024-12-30T07:29:21.017Z] DETAIL: Server start process completed.
+[2024-12-30T07:29:21.023Z] DETAIL: Cookies saved for the next session.
+[2024-12-30T07:40:51.675Z] DETAIL: Loaded pre-authenticated cookies.
+[2024-12-30T07:41:04.846Z] DETAIL: Skipping Play button. User is already logged in.
+[2024-12-30T07:41:04.862Z] DETAIL: Server menu loaded. Clicking server menu...
+[2024-12-30T07:41:04.902Z] DETAIL: Navigated to Aternos server page.
+[2024-12-30T07:41:06.901Z] DETAIL: Clicked the start button.
+[2024-12-30T07:41:56.909Z] DETAIL: Server start process completed.
+[2024-12-30T07:41:56.915Z] DETAIL: Cookies saved for the next session.
