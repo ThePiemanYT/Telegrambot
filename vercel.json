@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "bot.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "env": {
+    "BOT_TOKEN": "@bot-token" 
+  },
+  "routes": [
+    {
+      "src": "/",
+      "dest": "bot.js"
+    }
+  ]
+}
