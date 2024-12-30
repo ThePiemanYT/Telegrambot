@@ -12,6 +12,6 @@
   "scripts": {
     "postinstall": "npx puppeteer install",
     "build": "npm install && npx puppeteer install",
-    "start": "node bot.js"
+    "start": "node index.js"
   }
 }
