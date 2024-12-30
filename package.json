@@ -12,7 +12,6 @@
   "scripts": {
     "postinstall": "npx puppeteer install",
     "build": "npm install && npx puppeteer install",
-    "build": "[my-framework] build --output public",
     "start": "node index.js"
   }
 }
