@@ -8,6 +8,8 @@
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "telegraf": "^4.16.3",
     "uuid": "^11.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
-
